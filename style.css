@@ -1,0 +1,31 @@
+main{
+    background-color: rgb(12, 9, 17);
+    
+}
+h5{
+    color: rgb(0, 0, 0);
+}
+p{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    background-color: rgb(248, 246, 250);
+}
+li{
+    color: rgb(132, 0, 255);
+    font-family: 'Times New Roman', Times, serif;
+list-style:none;
+
+}
+.card1{
+    border-color: black;
+    border-width: 3px;
+}
+header{
+    background-color: rgb(12, 9, 17);
+   
+}
+a{
+    color:antiquewhite;
+}
